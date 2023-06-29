@@ -1,5 +1,10 @@
 :root{
-    --branco-principal:#F5F5F5;
-    --red-secundario:#7C0606;
-    --barra-e-pequia:#D9D9D9;  
+    --branco-principal:#e0e0e0;
+    --red-secundario:#d30c0c;
+    --barra-de-pesquisa:#D9D9D9;  
+    --cor-de-fundo:#681111;
+
+}
+body { background-color: var(--cor-de-fundo)
+    color: var(--branco-principal);
 }
