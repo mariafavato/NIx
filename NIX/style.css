@@ -1,15 +1,4 @@
-:root{
-    --branco-principal:#e0e0e0;  
-    --cor-de-fundo:#681111;
-
-}
-
-body {
-     background-color: var(--cor-de-fundo);
-      color: var(--branco-principal);
-}
-
-* {
-    margin: 0;
-    padding: 0;
+header{
+    background-color: #460202;
+    color: #fffefe;
 }
